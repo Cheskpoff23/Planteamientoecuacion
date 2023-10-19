@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Ecuación del área total}{3}{}%
+\contentsline {section}{\numberline {2}Ecuación del área total de la vitrina}{4}{}%
+\contentsline {section}{\numberline {3}Función de costo}{5}{}%
+\contentsline {section}{\numberline {4}Resultados de los costos totales para la entrega de las casas}{5}{}%
+\contentsline {section}{\numberline {5}Propuesta de mejora}{5}{}%
+\contentsline {section}{\numberline {6}Conclusiones}{6}{}%
+\contentsline {section}{Referencias}{6}{}%

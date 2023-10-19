@@ -1,0 +1,27 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Barreto~Garcia%
+}{%
+Barreto~Garcia%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Barreto_Garcia2014-rc}
+\APACinsertmetastar {%
+Barreto_Garcia2014-rc}%
+\begin{APACrefauthors}%
+Barreto~Garcia, J\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Area y Volumenes: Deducciones Con Diversas Actividades y
+  Aplicaciones} {Area y volumenes: Deducciones con diversas actividades y
+  aplicaciones}.
+\newblock
+\APACaddressPublisher{}{Createspace}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
